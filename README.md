@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @CMoira
-- 👀 I’m interested in ...
+<h1>Moira C.</h1>
+<p>My name is Moira. Nice to meet you!</p>
+- I'm a lover for learning code
+- I have an interest in learning about databases and the different ways you could hack someone/ protect a system
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- ⚡ Fun fact: I gobble up knowledge like it's pizza and an artsy and music nerd for all eternity
+
 <div>
+  <h2>Languages</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
