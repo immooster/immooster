@@ -19,9 +19,9 @@ I am currently taking a diploma in Information Technology at Nanyang Polytechnic
 </div>
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=CMoira&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CMoira&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=monochrona&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=monochrona&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-![](https://github-profile-trophy.vercel.app/?username=CMoira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=monochrona&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
