@@ -43,12 +43,12 @@ I'm currently pursuing a **Diploma in Information Technology at Nanyang Polytech
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monochrona&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%"/>    
-  <img src="https://github-readme-stats.vercel.app/api?username=monochrona&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immooster&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%"/>    
+  <img src="https://github-readme-stats.vercel.app/api?username=immooster&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monochrona&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=immooster&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
