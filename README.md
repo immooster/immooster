@@ -18,9 +18,7 @@ I'm currently pursuing a **Diploma in Information Technology at Nanyang Polytech
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
 
-<hr/>
-
-<br/>
+<br/><br/>
 
 ## 🚀 Skills
 ### Programming Languages
