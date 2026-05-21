@@ -1,7 +1,7 @@
 ## Hi, I'm Moira!  
-🎓 IT Student | Full-Stack Developer & Cybersecurity Enthusiast | Creative Artist 
+🎓 IT Student | Full-Stack Developer | Creative Artist 
 
-I'm currently pursuing a **Diploma in Information Technology at Nanyang Polytechnic**, where I've had the opportunity to explore **web and app development**, as well as dive into **security fundamentals**.
+I'm a recent graduate from Nanyang Polytechnic with a **Diploma in Information Technology**, where I've had the opportunity to explore **web and app development**, as well as dive into **security fundamentals**.
 
 **What I Enjoy Doing:**
 
@@ -9,9 +9,8 @@ I'm currently pursuing a **Diploma in Information Technology at Nanyang Polytech
 - 🔐 Exploring Cybersecurity – Securing systems and experimenting with security tools.
 - 🎨 Creative Arts – Digital art, creative writing, music, media, and animation.
 
-**Currently Exploring:**
-- Cross-platform Mobile Development: Building apps that run on Android and iOS.
-- Cloud Integration: Using Google Cloud and Firebase for mobile applications.
+**Currently Working on:**
+- A 3D rendering app 👀
 
 ### Let's Connect!
 <a href="https://linkedin.com/in/moira-cabuhat-31b08b2b2">
@@ -61,12 +60,6 @@ I'm currently pursuing a **Diploma in Information Technology at Nanyang Polytech
 </div>
 
 <br/><br/>
-
-## GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immooster&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%"/>    
-  <img src="https://github-readme-stats.vercel.app/api?username=immooster&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
